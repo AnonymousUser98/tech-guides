@@ -22,7 +22,7 @@ title: AnonymousUser98's Tech Guides
 github_username: AnonymousUser98
 
 # Build settings
-theme: minima
+theme: jekyll-text-theme
 markdown: GFM
 plugins:
   - jekyll-feed
