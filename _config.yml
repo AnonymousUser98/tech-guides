@@ -25,6 +25,7 @@ repository: AnonymousUser98/tech-guides
 # Build settings
 theme: jekyll-text-theme
 text_skin: default
+highlight_theme: default
 markdown: GFM
 plugins:
   - jekyll-feed
