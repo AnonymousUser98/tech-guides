@@ -1,0 +1,7 @@
+title: AnonymousUser98's Tech Guides
+description: Guides to help you get the best configurations for various software
+
+remote_theme: kitian616/jekyll-TeXt-theme
+
+plugins:
+  - jekyll-remote-theme
